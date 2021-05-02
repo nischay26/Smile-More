@@ -1,1 +1,1 @@
-# CovAID
+# Smile More
